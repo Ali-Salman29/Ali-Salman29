@@ -12,4 +12,10 @@ I'm a dedicated and detail-oriented software engineer, with over 3 years of expe
 ![](https://nirzak-streak-stats.vercel.app/?user=ALi-Salman29&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ALi-Salman29&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ALi-Salman29&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=ALi-Salman29&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
